@@ -1,4 +1,4 @@
-# 315Apology-letter
+# 315Apology-letter-generator
 
 注意！注意！注意！本生成器生成的道歉信什么用都没有，只能用来搞笑！！！
 
